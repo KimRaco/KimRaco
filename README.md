@@ -19,15 +19,15 @@
 <div align="center">
 
    <a target="blank" href="https://yali.vercel.app/" rel="noopener noreferrer"> 
-    <img width = "30%" height= "150px"src="https://github.com/KimRaco/KimRaco/blob/main/images/yali.png.png?raw=true"> 
+    <img  height= "150px"src="https://github.com/KimRaco/KimRaco/blob/main/images/yali.png.png?raw=true"> 
   </a>
   
   <a target="blank" href="https://dev-to-front-project.vercel.app/" rel="noopener noreferrer"> 
-    <img width = "30%" height = "150px" src="https://github.com/KimRaco/KimRaco/blob/main/images/dev-to-front.png.png?raw=true"> 
+    <img  height = "150px" src="https://github.com/KimRaco/KimRaco/blob/main/images/dev-to-front.png.png?raw=true"> 
   </a>
 	
   <a target="blank" href="https://dev-to-backend.vercel.app/" rel="noopener noreferrer"> 
-    <img width = "30%" height = "150px" src="https://github.com/KimRaco/KimRaco/blob/main/images/dev-to-back.png.png?raw=true"> 
+    <img  height = "150px" src="https://github.com/KimRaco/KimRaco/blob/main/images/dev-to-back.png.png?raw=true"> 
   </a>
 
 
