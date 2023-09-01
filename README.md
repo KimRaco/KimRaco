@@ -3,7 +3,7 @@
 <h1> Web Developer Jr. </h1>
 
 <p>
-  I am a creative and kind person capable of adapting to any situation. 🔭 I am currently seeking a job opportunity where I can demonstrate my commitment and ability to work, while also allowing for my intellectual growth and the development of my technical knowledge. I am currently learning Java and have recently completed an intensive bootcamp where I gained practical experience with new technologies and collaborated with other developers✨.
+  I am a creative, organized, and kind person. 🔭 I am currently looking for a job opportunity where I can demonstrate my commitment and ability to work while also enables me to further expand my knowledge. In my previous jobs, I have always stood out for my high productivity and learning abilities. I am currently learning Java and have recently completed an intensive bootcamp where I gained practical experience with new technologies and collaborated with other developers ✨.
 </p>
 
 ## 🧰 Languages and tools
